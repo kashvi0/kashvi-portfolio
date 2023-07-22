@@ -1,5 +1,5 @@
 import { Col, Row } from "react-bootstrap";
-const pdfURL = "http://localhost:3000/Kashvi_Jain_Resume.pdf"
+const pdfURL = "https://kashvi-jain-portfolio.onrender.com/Kashvi_Jain_Resume.pdf"
 
 export const Newsletter = () => {
 
